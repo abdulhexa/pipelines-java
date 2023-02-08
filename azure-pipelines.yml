@@ -18,7 +18,7 @@ variables:
   environmentName: ''
 
   # Agent VM image name
-  vmImageName: 'linux'
+  vmImageName: 'machine'
 
 stages:
 - stage: Build
